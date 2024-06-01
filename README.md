@@ -1,5 +1,7 @@
 # TestsReservaJa
 
+Esse projeto esta sendo desenvolvido por Lucas Martins Venero, Gustavo Chavez, Guilherme Melato, Michael Varaldo, Filipe Ourlamunder e Cristian Domingues
+
 # Projeto de Testes Automatizados com Cypress
 
 ## Descrição
